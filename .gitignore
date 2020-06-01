@@ -1,0 +1,5 @@
+*.o
+*.out
+*.tar
+test.c
+.vscode
